@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /
+
+# This gem is under experimental development
+# Give feedback!
